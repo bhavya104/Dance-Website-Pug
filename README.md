@@ -1,3 +1,3 @@
 # Dance-Website-Pug
 
-/* git push origin HEAD:master*/
+<1-- git push origin HEAD:master -->
